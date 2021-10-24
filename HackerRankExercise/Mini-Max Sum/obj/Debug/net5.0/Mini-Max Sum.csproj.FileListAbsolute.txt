@@ -1,0 +1,16 @@
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\Mini-Max Sum.exe
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\Mini-Max Sum.deps.json
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\Mini-Max Sum.runtimeconfig.json
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\Mini-Max Sum.runtimeconfig.dev.json
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\Mini-Max Sum.dll
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\ref\Mini-Max Sum.dll
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\bin\Debug\net5.0\Mini-Max Sum.pdb
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.csproj.AssemblyReference.cache
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.AssemblyInfoInputs.cache
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.AssemblyInfo.cs
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.csproj.CoreCompileInputs.cache
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.dll
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\ref\Mini-Max Sum.dll
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.pdb
+E:\HackerRank-Exercise\HackerRankExercise\Mini-Max Sum\obj\Debug\net5.0\Mini-Max Sum.genruntimeconfig.cache
