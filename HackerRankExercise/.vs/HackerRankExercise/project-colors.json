@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b9019fa-fa54-428b-bcb5-186ff6e4baa5": {
+      "ProjectGuid": "3b9019fa-fa54-428b-bcb5-186ff6e4baa5",
+      "DisplayName": "Mini-Max Sum",
+      "ColorIndex": 0
+    },
+    "194da3a4-4e09-48d2-b5b7-c7f7f0fbe59d": {
+      "ProjectGuid": "194da3a4-4e09-48d2-b5b7-c7f7f0fbe59d",
+      "DisplayName": "Birthday Cake Candles",
+      "ColorIndex": 1
+    },
+    "419e1115-8df4-4121-be80-5ff8726a706e": {
+      "ProjectGuid": "419e1115-8df4-4121-be80-5ff8726a706e",
+      "DisplayName": "Time Conversion",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

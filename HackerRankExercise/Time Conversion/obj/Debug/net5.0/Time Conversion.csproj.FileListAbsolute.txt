@@ -1,0 +1,16 @@
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\Time Conversion.exe
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\Time Conversion.deps.json
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\Time Conversion.runtimeconfig.json
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\Time Conversion.runtimeconfig.dev.json
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\Time Conversion.dll
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\ref\Time Conversion.dll
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\bin\Debug\net5.0\Time Conversion.pdb
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.csproj.AssemblyReference.cache
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.AssemblyInfoInputs.cache
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.AssemblyInfo.cs
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.csproj.CoreCompileInputs.cache
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.dll
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\ref\Time Conversion.dll
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.pdb
+E:\HackerRank-Exercise\HackerRankExercise\Time Conversion\obj\Debug\net5.0\Time Conversion.genruntimeconfig.cache
