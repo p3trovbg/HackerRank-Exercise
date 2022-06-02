@@ -1,13 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31808.319
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Max Sum", "Mini-Max Sum\Mini-Max Sum.csproj", "{3B9019FA-FA54-428B-BCB5-186FF6E4BAA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mini-Max Sum", "Mini-Max Sum\Mini-Max Sum.csproj", "{3B9019FA-FA54-428B-BCB5-186FF6E4BAA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{194DA3A4-4E09-48D2-B5B7-C7F7F0FBE59D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{194DA3A4-4E09-48D2-B5B7-C7F7F0FBE59D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{419E1115-8DF4-4121-BE80-5FF8726A706E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{419E1115-8DF4-4121-BE80-5FF8726A706E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading Students", "Grading Students\Grading Students.csproj", "{0DE8D2F0-BA8E-4F25-87DC-D398D958ABA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apple and Orange", "Apple and Orange\Apple and Orange.csproj", "{57C6CBDE-FA22-44E4-B721-77A1C7807248}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Line Jumps", "Number Line Jumps\Number Line Jumps.csproj", "{EE365C89-8961-4E99-8782-3BD79B3AA71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Between Two Sets", "Between Two Sets\Between Two Sets.csproj", "{97BD9419-AD47-4FC1-8B06-D48C6D6EF554}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +35,22 @@ Global
 		{419E1115-8DF4-4121-BE80-5FF8726A706E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{419E1115-8DF4-4121-BE80-5FF8726A706E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{419E1115-8DF4-4121-BE80-5FF8726A706E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DE8D2F0-BA8E-4F25-87DC-D398D958ABA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE8D2F0-BA8E-4F25-87DC-D398D958ABA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE8D2F0-BA8E-4F25-87DC-D398D958ABA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE8D2F0-BA8E-4F25-87DC-D398D958ABA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C6CBDE-FA22-44E4-B721-77A1C7807248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C6CBDE-FA22-44E4-B721-77A1C7807248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C6CBDE-FA22-44E4-B721-77A1C7807248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C6CBDE-FA22-44E4-B721-77A1C7807248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE365C89-8961-4E99-8782-3BD79B3AA71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE365C89-8961-4E99-8782-3BD79B3AA71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE365C89-8961-4E99-8782-3BD79B3AA71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE365C89-8961-4E99-8782-3BD79B3AA71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BD9419-AD47-4FC1-8B06-D48C6D6EF554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BD9419-AD47-4FC1-8B06-D48C6D6EF554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BD9419-AD47-4FC1-8B06-D48C6D6EF554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BD9419-AD47-4FC1-8B06-D48C6D6EF554}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

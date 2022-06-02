@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj": {}
+    "F:\\My education\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj": {}
   },
   "projects": {
-    "E:\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj": {
+    "F:\\My education\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj",
+        "projectUniqueName": "F:\\My education\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj",
         "projectName": "Time Conversion",
-        "projectPath": "E:\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj",
-        "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-        "outputPath": "E:\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\obj\\",
+        "projectPath": "F:\\My education\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\Time Conversion.csproj",
+        "packagesPath": "C:\\Users\\George-PC\\.nuget\\packages\\",
+        "outputPath": "F:\\My education\\HackerRank-Exercise\\HackerRankExercise\\Time Conversion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\George-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,16 @@
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\Number Line Jumps.exe
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\Number Line Jumps.deps.json
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\Number Line Jumps.runtimeconfig.json
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\Number Line Jumps.runtimeconfig.dev.json
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\Number Line Jumps.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\ref\Number Line Jumps.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\bin\Debug\net5.0\Number Line Jumps.pdb
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.GeneratedMSBuildEditorConfig.editorconfig
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.AssemblyInfoInputs.cache
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.AssemblyInfo.cs
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.csproj.CoreCompileInputs.cache
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\ref\Number Line Jumps.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.pdb
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.genruntimeconfig.cache
+F:\My education\HackerRank-Exercise\HackerRankExercise\Number Line Jumps\obj\Debug\net5.0\Number Line Jumps.csproj.AssemblyReference.cache

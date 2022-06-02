@@ -1,0 +1,16 @@
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\Apple and Orange.exe
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\Apple and Orange.deps.json
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\Apple and Orange.runtimeconfig.json
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\Apple and Orange.runtimeconfig.dev.json
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\Apple and Orange.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\ref\Apple and Orange.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\bin\Debug\net5.0\Apple and Orange.pdb
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.csproj.AssemblyReference.cache
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.GeneratedMSBuildEditorConfig.editorconfig
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.AssemblyInfoInputs.cache
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.AssemblyInfo.cs
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.csproj.CoreCompileInputs.cache
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\ref\Apple and Orange.dll
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.pdb
+F:\My education\HackerRank-Exercise\HackerRankExercise\Apple and Orange\obj\Debug\net5.0\Apple and Orange.genruntimeconfig.cache
